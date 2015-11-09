@@ -4,7 +4,7 @@
 function loop_fitbrdf(iter)
 
 % iter = 5;
-setGlobalalpha(0.1358);
+setGlobalalpha(0.1175);
 
 % init 2 param fitting
 LB_2 = [0.001, 0.001];
